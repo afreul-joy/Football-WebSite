@@ -34,6 +34,10 @@ h1 {
   margin-right: 102px;
   margin-left: 156px;
 }
+.half-width img {
+  width:556.01px; 
+  height:438px;
+}
 .btn{
   text-decoration: none;
   background-color: rgb(182, 77, 115);
@@ -47,7 +51,7 @@ h1 {
   transition: 0.3s;
 }
 .btn:hover{
-  background-color: rgba(224, 44, 109, 1);
+ background-color: rgb(119, 238, 192);
   color: rgba(255, 255, 255, 1);
 }
 .transformer{
@@ -192,3 +196,9 @@ h4 {
   color: rgba(0, 0, 0, 1);
 ;
 }
+
+
+
+
+/* media qurery  */
+
