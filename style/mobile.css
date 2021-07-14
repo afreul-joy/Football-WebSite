@@ -119,15 +119,14 @@ h1 {
 /* Third-part  */
 .Third-section {
   width: 360px;
-  height: 445px;
+  height:550px;
 }
 .form-section{
   background:rgba(170, 121, 82, 0.527);
-  width:90%;
-  height:50vh;
+  width:60%;
+  height:500px;
   border-radius:5px;
   margin:auto;
-  margin-bottom: 2% ;
   padding:2%; 
   border: #292929 2px solid; 
   text-align: center;
@@ -137,7 +136,7 @@ h1 {
 }
 
 textarea {
-  width: 80%;
+  width: 60%;
   margin-top: 4%;
   height: 150px;
   padding: 12px 20px;
