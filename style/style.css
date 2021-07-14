@@ -156,18 +156,18 @@ textarea {
 /* Four Extra Section */
 .top-clubs{
   width: 1440px;
-  height: 400px;
+  height: 500px;
 }
 .clubs {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
 }
 .club img {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
 }
-h4 {
-  text-align: center;
+.club-info {
+  width: 300px;
 }
 
 /* Last Part */
@@ -196,9 +196,9 @@ h4 {
   color: rgba(0, 0, 0, 1);
 ;
 }
+.ft-img {
+  width:483.87px;
+  height:110px;
+}
 
-
-
-
-/* media qurery  */
 
