@@ -62,8 +62,9 @@ h1 {
 /* Second Part */
 .container{
   width: 1440px;
-  height: 3750px;
+  height: 2050px;
   background-color: rgba(255, 255, 255, 1);
+  
 }
 .all-players{
   display: grid;
@@ -117,3 +118,77 @@ h1 {
 }
 
 /* Last Part */
+.Third-section{
+  width: 1440px;
+  height: 500px;
+}
+.form-section{
+  background:rgba(170, 121, 82, 0.527);
+  width:30%;
+  height:40vh;
+  border-radius:5px;
+  margin:auto;
+  margin-bottom: 2% ;
+  padding:4%; 
+  border: #292929 2px solid; 
+  text-align: center;
+}
+.form-half{
+  margin-bottom: 4%;
+}
+
+textarea {
+  width: 80%;
+  margin-top: 4%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+}
+
+/* Four Extra Section */
+.top-clubs{
+  width: 1440px;
+  height: 400px;
+}
+.clubs {
+  display: flex;
+  justify-content: space-around;
+}
+.club img {
+  width: 200px;
+  height: 200px;
+}
+h4 {
+  text-align: center;
+}
+
+/* Last Part */
+.footer-section {
+  width: 1440px;
+  height: 25vh;
+}
+.last-part{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.ficon{
+  padding:0 14px;
+}
+.ft-info {
+  margin-top: 20px;
+}
+.ft-text{
+  margin-top: 20px;
+  margin-bottom: 63px;
+  width: 236px;
+  height: 31px;
+  font-weight: 400;
+  line-height: 24px;
+  color: rgba(0, 0, 0, 1);
+;
+}
