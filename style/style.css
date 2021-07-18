@@ -8,11 +8,13 @@ body {
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
   width: 100%;
+  position: relative;
 }
 
 /* First Part */
 header{
   background-color:rgba(45, 37, 160, 1);
+  
 }
 h1 {
   font-size: 64px;
@@ -29,6 +31,7 @@ h1 {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin:auto;
 }
 .left-side{
   margin-right: 102px;
@@ -68,7 +71,7 @@ h1 {
   width: 1440px;
   height: 2050px;
   background-color: rgba(255, 255, 255, 1);
-  
+  margin:auto;
 }
 .all-players{
   display: grid;
@@ -125,6 +128,7 @@ h1 {
 .Third-section{
   width: 1440px;
   height: 500px;
+  margin:auto;
 }
 .form-section{
   background:rgba(170, 121, 82, 0.527);
@@ -157,6 +161,7 @@ textarea {
 .top-clubs{
   width: 1440px;
   height: 500px;
+  margin:auto;
 }
 .clubs {
   display: flex;
@@ -174,6 +179,7 @@ textarea {
 .footer-section {
   width: 1440px;
   height: 25vh;
+  margin:auto;
 }
 .last-part{
   display: flex;

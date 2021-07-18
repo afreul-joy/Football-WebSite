@@ -1,7 +1,8 @@
 @media only screen and (max-width: 688px) {
  /* common style */
 body {
-  margin: 0;
+  margin:0;
+  
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
@@ -10,9 +11,10 @@ body {
 /* First Part */
 header{
   background-color:rgba(45, 37, 160, 1);
-  width: 100%
+  width: 100%;
 }
 h1 {
+  
   font-size: 36px;
   width: 278px;
   height: 138px;
